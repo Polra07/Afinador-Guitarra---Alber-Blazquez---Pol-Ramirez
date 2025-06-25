@@ -19,7 +19,7 @@ U8G2_SSD1306_128X64_NONAME_F_HW_I2C u8g2(U8G2_R0, U8X8_PIN_NONE);
 #define I2S_BUFFER_SIZE 1024
 
 // WiFi
-const char* ssid = "Iphone de tusco";
+const char* ssid = "Iphone de Pol";
 const char* password = "12000047";
 
 // WebServer
